@@ -1,5 +1,3 @@
-package org.json;
-
 import static java.lang.String.format;
 
 import java.io.UnsupportedEncodingException;
